@@ -16,7 +16,7 @@ print ("\n")
 
 resp=str(input("A alcanzado el limite para ingresar datos, desea eliminar los datos ingresados(SI/NO)?: "))
 
-print("Esto es mio :)")
+print("Esto es mio : ggggg)")
 while True:
     if(resp=='SI'):
         eliminar = str(input("¿Que variable desea eliminar: "))
