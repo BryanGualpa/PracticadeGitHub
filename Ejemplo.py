@@ -13,6 +13,7 @@ for x in range(2):
 print("\nLista")
 print (numeros)
 print ("\n")
+print("comete este")
 
 resp=str(input("A alcanzado el limite para ingresar datos, desea eliminar los datos ingresados(SI/NO)?: "))
 
